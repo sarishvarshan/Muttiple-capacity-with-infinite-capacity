@@ -2,7 +2,7 @@
 # Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
 ```
 Developed by: SARISH VARSHAN V
-Reg No: 212223230195
+Reg No: 212223230196
 Date : 18/04/25
 ```
 ## Aim :
